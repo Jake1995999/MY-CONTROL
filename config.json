@@ -2,10 +2,10 @@
   "password_status": "ON",
   "Verify": [
     {
-      "key": "ANG_PASSWORD_MO_DITO"
+      "key": "M"
     },
     {
-      "key": "ISA_PANG_PASSWORD_KUNG_MERON"
+      "key": "A"
     }
   ]
 }
