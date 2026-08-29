@@ -1,11 +1,4 @@
 {
   "password_status": "ON",
-  "Verify": [
-    {
-      "key": "M"
-    },
-    {
-      "key": "A"
-    }
-  ]
+  "token": "MARSHALL2026"
 }
